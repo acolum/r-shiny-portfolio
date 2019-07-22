@@ -1,2 +1,3 @@
-# r-shiny-portfolio
-A collection of my best R Shiny applications and dashboards.
+# R Shiny Portfolio
+## A collection of my best R Shiny applications and dashboards.
+### Alyssa Columbus
